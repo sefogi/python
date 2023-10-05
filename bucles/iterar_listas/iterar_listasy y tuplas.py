@@ -23,7 +23,7 @@ numeros1 =[]
 #for num in range(5):
     #print(num)
     
-# forma no optima de recorrer una lista
+# forma no optima de recorrer una lista no funciona en conjuntos
 #for num1 in range(len(numeros)):
     #print(numeros[num1])
     
@@ -41,3 +41,5 @@ for num3 in numeros1:
     
 else:
     print("el bucle termino")
+    
+#todo lo anterio funciona igual para tuplas () listas y conjuntos
