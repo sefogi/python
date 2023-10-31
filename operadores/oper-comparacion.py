@@ -15,5 +15,5 @@ menor_o_igual = 5 <= 6
 a = 5
 b = 10
 c = 20
-comparacion = a + b < c
+comparacion = a + b + c
 print(comparacion)# da true por que se cumple la operacion 

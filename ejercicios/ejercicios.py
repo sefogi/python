@@ -10,7 +10,7 @@ if tipo_pizza == "vegetariana":
     ingrediente_selecionado = str(input("selecione solo un ingrediente: "))
     print("en este momento estamos relizando su pizza vegetariana")
 
-# Si el usuario ha elegido una pizza no vegetariana
+# Si el usuario ha elegido una pizza no vegetarianaa
 elif tipo_pizza == "no vegetariana":
 
     # Imprimimos una lista de ingredientes no vegetarianos
